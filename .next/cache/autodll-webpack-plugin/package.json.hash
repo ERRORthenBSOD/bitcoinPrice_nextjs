@@ -1,0 +1,1 @@
+{"scripts":{"dev":"next","build":"next build","start":"next start"},"dependencies":{"isomorphic-unfetch":"^3.0.0","next":"^9.0.3","react":"^16.9.0","react-dom":"^16.9.0"},"name":"bitcoin_prices","version":"1.0.0","main":"index.js","license":"MIT","readme":"ERROR: No README data found!","_id":"bitcoin_prices@1.0.0"}
